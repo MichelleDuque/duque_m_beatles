@@ -179,6 +179,7 @@ footer{
     width: 55%;
     margin-left: 40%;
     padding-top: 50px;
+    text-align: left
 }
 
 .lb_text, .lb_heading { text-align: left;}
