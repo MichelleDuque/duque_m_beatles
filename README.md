@@ -1,6 +1,8 @@
-# Beatles Characters Build
+# Beatles Build
 
 All about the best band in the world! Click on an image to learn more.
+
+Michelle Duque De La Rosa
 
 ## Contributing
 
